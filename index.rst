@@ -13,7 +13,11 @@ Getting started
 .. toctree::
     :hidden:
 
-    tutorial
+    Tutorial
+    
+    Terms of Use
+    
+   
 
 
 .. _help_docs:
@@ -27,6 +31,12 @@ Usage documentation
     :glob:
 
     help/*
+    Uploading Data Tables and Collections
+    Browsing Data Tables and Collections
+    Making Data Greater
+    Account Management
+    Dashboard
+    
 
 
 .. _tech_specs:
